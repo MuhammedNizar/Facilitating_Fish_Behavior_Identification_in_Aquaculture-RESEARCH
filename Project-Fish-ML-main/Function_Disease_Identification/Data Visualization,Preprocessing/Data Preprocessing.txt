@@ -1,0 +1,23 @@
+Handling Missing Values:
+
+Impact on Model Performance: Missing values in the dataset can lead to biased or incomplete analyses, affecting the model's ability to learn patterns and make accurate predictions.
+Options for Handling Missing Values:
+
+*Imputation: Fill in missing values with estimated or calculated values (e.g., mean, median, or mode) based on the available data.
+*Removal: Remove rows or columns with missing values. This is applicable when the missing values are limited and won't significantly impact the overall dataset.
+
+Handling Duplicate Rows:
+
+Impact on Model Performance: Duplicate rows can introduce bias in the model training process. The model may give more importance to duplicated instances, affecting its ability to generalize to new, unseen data.
+Options for Handling Duplicate Rows:
+
+*Deduplication: Remove duplicate rows to ensure that each data point is unique. This helps in preventing the model from overfitting to specific instances and improves generalization.
+
+Handling Outliers:
+
+Impact on Model Performance: Outliers, or extreme values, can disproportionately influence model training. They might lead the model to learn patterns based on these extreme values, making it less effective in predicting normal instances.
+Options for Handling Outliers:
+
+*Transformation: Apply mathematical transformations (e.g., log transformation) to make the data more normally distributed and reduce the impact of outliers.
+*Truncation or Winsorization: Cap or replace extreme values with less extreme values to minimize their impact.
+Removal: In some cases, outliers may be removed if they are data entry errors or anomalies that don't represent the underlying patterns

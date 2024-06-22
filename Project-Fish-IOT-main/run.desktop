@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Fish IoT
+Comment=Run fish_Iot.py script
+Exec=/usr/bin/python3 /home/pi/Desktop/run.py
+Icon=/home/pi/Desktop/icon.png  # Replace with the path to your icon file, if needed
+Terminal=false
+Categories=Utility;Application;
