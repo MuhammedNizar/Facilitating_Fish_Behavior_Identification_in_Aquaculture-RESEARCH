@@ -1,7 +1,7 @@
 # Fish Disease Identification Using Machine Learning and Water Quality Parameters
 
 ## Overview
-This repository contains the implementation of a comprehensive surveillance system for fish disease identification and water quality monitoring using machine learning techniques. The system integrates various technologies including machine learning models (SVM, Naive Bayes, Random Forest, KNN), IoT devices, image processing, and expert systems to enhance fish health management in aquaculture.
+This repository contains the implementation of a comprehensive surveillance system for fish disease identification and water quality monitoring using machine learning techniques. The system integrates various technologies including machine learning models (SVM, Naive Bayes, Random Forest, KNN, CNN and ANN), IoT devices, image processing, and expert systems to enhance fish health management in aquaculture.
 
 ## Features
 - Identification of fish species, behaviors, and diseases based on water quality parameters.
