@@ -12,7 +12,7 @@ This repository contains the implementation of a comprehensive surveillance syst
 ## Requirements
 Ensure you have the following dependencies installed:
 - Python 3.x
-- TensorFlow, Scikit-learn, OpenCV (for image processing), Pandas, NumPy
+- TensorFlow, Scikit-learn, YOLOV8 , Pandas, NumPy
 - Raspberry Pi (for IoT device setup)
 - VNC Server (for remote access)
 
